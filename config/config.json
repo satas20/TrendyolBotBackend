@@ -1,0 +1,10 @@
+{
+  "baseUrl": "https://stageapi.trendyol.com/stagesapigw",
+  "endpoints": {
+    "getCustomerQuestions": "/suppliers/{{supplierId}}/questions/filter",
+    "answerCustomerQuestions": "/suppliers/{{supplierId}}/questions/{{id}}/answers"
+  },
+  "variables": {
+    "supplierId": "2738"
+  }
+}
