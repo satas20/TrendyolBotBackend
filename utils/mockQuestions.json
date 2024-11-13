@@ -1,262 +1,219 @@
 {
-  "questions": [
-    {
-      "id": 1,
-      "question": "Hediye gönderiyormusunu ❤",
-      "answer": "Evet, hediye gönderiyoruz. Sipariş verirken hediye seçeneğini işaretlemeniz yeterli olacaktır.",
-      "date": "2021-06-01T00:00:00.000Z"
-    },
-    {
-      "id": 2,
-      "question": "Ürünleriniz orjinal mi?",
-      "answer": "Evet, ürünlerimiz orjinaldir.",
-      "date": "2021-06-01T00:00:00.000Z"
-    },
-    {
-      "id": 3,
-      "question": "Kargo ücreti ne kadar?",
-      "answer": "Kargo ücreti 10 TL'dir.",
-      "date": "2021-06-01T00:00:00.000Z"
-    },
-    {
-      "id": 4,
-      "question": "Kargo süresi ne kadar?",
-      "answer": "Kargo süresi 3 iş günüdür.",
-      "date": "2021-06-01T00:00:00.000Z"
-    },
-    {
-      "id": 5,
-      "question": "İade süresi ne kadar?",
-      "answer": "İade süresi 14 gün.",
-      "date": "2021-06-01T00:00:00.000Z"
-    },
-    {
-      "id": 6,
-      "question": "Kapıda ödeme var mı?",
-      "answer": "Evet, kapıda ödeme seçeneği mevcuttur.",
-      "date": "2021-06-01T00:00:00.000Z"
-    },
-    {
-      "id": 7,
-      "question": "Kredi kartı ile ödeme yapabilir miyim?",
-      "answer": "Evet, kredi kartı ile ödeme yapabilirsiniz.",
-      "date": "2021-06-01T00:00:00.000Z"
-    },
-    {
-      "id": 8,
-      "question": "Ürünlerinizde indirim var mı?",
-      "answer": "Evet, ürünlerimizde indirimler mevcuttur.",
-      "date": "2021-06-01T00:00:00.000Z"
-    },
-    {
-      "id": 9,
-      "question": "Ürünlerinizde kupon kullanabilir miyim?",
-      "answer": "Evet, kupon kullanabilirsiniz.",
-      "date": "2021-06-01T00:00:00.000Z"
-    },
-    {
-      "id": 10,
-      "question": "Kedim için ürün var mı?",
-      "answer": "Evet, kediniz için çeşitli ürünlerimiz bulunmaktadır.",
-      "date": "2021-06-01T00:00:00.000Z"
-    },
-    {
-      "id": 11,
-      "question": "Ürünleriniz uzaya gönderilebilir mi?",
-      "answer": "Maalesef, ürünlerimiz uzaya gönderilemez.",
-      "date": "2021-06-01T00:00:00.000Z"
-    },
-    {
-      "id": 12,
-      "question": "Ürünleriniz su geçirmez mi?",
-      "answer": "Bazı ürünlerimiz su geçirmezdir, ürün açıklamalarında bu bilgiyi bulabilirsiniz.",
-      "date": "2021-06-01T00:00:00.000Z"
-    },
-    {
-      "id": 13,
-      "question": "Ürünlerinizin tadı güzel mi?",
-      "answer": "Ürünlerimiz yenilebilir değildir, lütfen yemeyiniz.",
-      "date": "2021-06-01T00:00:00.000Z"
-    },
-    {
-      "id": 14,
-      "question": "Ürünlerinizin boyutları nedir?",
-      "answer": "Ürünlerimizin boyutları ürün açıklamalarında belirtilmiştir.",
-      "date": "2021-06-01T00:00:00.000Z"
-    },
-    {
-      "id": 15,
-      "question": "Ürünlerinizin rengi nedir?",
-      "answer": "Ürünlerimizin renk seçenekleri ürün açıklamalarında belirtilmiştir.",
-      "date": "2021-06-01T00:00:00.000Z"
-    },
-    {
-      "id": 16,
-      "question": "Ürünlerinizin malzemesi nedir?",
-      "answer": "Ürünlerimizin malzemesi ürün açıklamalarında belirtilmiştir.",
-      "date": "2021-06-01T00:00:00.000Z"
-    },
-    {
-      "id": 17,
-      "question": "Ürünlerinizin garantisi var mı?",
-      "answer": "Evet, ürünlerimiz garantilidir.",
-      "date": "2021-06-01T00:00:00.000Z"
-    },
-    {
-      "id": 18,
-      "question": "Ürünlerinizin kullanım kılavuzu var mı?",
-      "answer": "Evet, ürünlerimizin kullanım kılavuzu bulunmaktadır.",
-      "date": "2021-06-01T00:00:00.000Z"
-    },
-    {
-      "id": 19,
-      "question": "Ürünlerinizin fiyatı nedir?",
-      "answer": "Ürünlerimizin fiyatları ürün açıklamalarında belirtilmiştir.",
-      "date": "2021-06-01T00:00:00.000Z"
-    },
-    {
-      "id": 20,
-      "question": "Ürünlerinizin stok durumu nedir?",
-      "answer": "Ürünlerimizin stok durumu ürün açıklamalarında belirtilmiştir.",
-      "date": "2021-06-01T00:00:00.000Z"
-    },
-    {
-      "id": 21,
-      "question": "Ürünlerinizin teslimat süresi nedir?",
-      "answer": "Ürünlerimizin teslimat süresi ürün açıklamalarında belirtilmiştir.",
-      "date": "2021-06-01T00:00:00.000Z"
-    },
-    {
-      "id": 22,
-      "question": "Ürünlerinizin iade koşulları nedir?",
-      "answer": "Ürünlerimizin iade koşulları ürün açıklamalarında belirtilmiştir.",
-      "date": "2021-06-01T00:00:00.000Z"
-    },
-    {
-      "id": 23,
-      "question": "Ürünlerinizin değişim koşulları nedir?",
-      "answer": "Ürünlerimizin değişim koşulları ürün açıklamalarında belirtilmiştir.",
-      "date": "2021-06-01T00:00:00.000Z"
-    },
-    {
-      "id": 24,
-      "question": "Ürünlerinizin bakım talimatları nedir?",
-      "answer": "Ürünlerimizin bakım talimatları ürün açıklamalarında belirtilmiştir.",
-      "date": "2021-06-01T00:00:00.000Z"
-    },
-    {
-      "id": 25,
-      "question": "Ürünlerinizin kullanım ömrü nedir?",
-      "answer": "Ürünlerimizin kullanım ömrü ürün açıklamalarında belirtilmiştir.",
-      "date": "2021-06-01T00:00:00.000Z"
-    },
-    {
-      "id": 26,
-      "question": "Ürünlerinizin enerji tüketimi nedir?",
-      "answer": "Ürünlerimizin enerji tüketimi ürün açıklamalarında belirtilmiştir.",
-      "date": "2021-06-01T00:00:00.000Z"
-    },
-    {
-      "id": 27,
-      "question": "Ürünlerinizin çevre dostu mu?",
-      "answer": "Evet, ürünlerimiz çevre dostudur.",
-      "date": "2021-06-01T00:00:00.000Z"
-    },
-    {
-      "id": 28,
-      "question": "Ürünlerinizin geri dönüşümlü mü?",
-      "answer": "Evet, ürünlerimiz geri dönüşümlüdür.",
-      "date": "2021-06-01T00:00:00.000Z"
-    },
-    {
-      "id": 29,
-      "question": "Ürünlerinizin paketleme malzemesi nedir?",
-      "answer": "Ürünlerimizin paketleme malzemesi ürün açıklamalarında belirtilmiştir.",
-      "date": "2021-06-01T00:00:00.000Z"
-    },
-    {
-      "id": 30,
-      "question": "Ürünlerinizin teslimat seçenekleri nedir?",
-      "answer": "Ürünlerimizin teslimat seçenekleri ürün açıklamalarında belirtilmiştir.",
-      "date": "2021-06-01T00:00:00.000Z"
-    },
-    {
-      "id": 31,
-      "question": "Ürünlerinizin ödeme seçenekleri nedir?",
-      "answer": "Ürünlerimizin ödeme seçenekleri ürün açıklamalarında belirtilmiştir.",
-      "date": "2021-06-01T00:00:00.000Z"
-    },
-    {
-      "id": 32,
-      "question": "Ürünlerinizin taksit seçenekleri nedir?",
-      "answer": "Ürünlerimizin taksit seçenekleri ürün açıklamalarında belirtilmiştir.",
-      "date": "2021-06-01T00:00:00.000Z"
-    },
-    {
-      "id": 33,
-      "question": "Ürünlerinizin kampanyaları nedir?",
-      "answer": "Ürünlerimizin kampanyaları ürün açıklamalarında belirtilmiştir.",
-      "date": "2021-06-01T00:00:00.000Z"
-    },
-    {
-      "id": 34,
-      "question": "Ürünlerinizin müşteri hizmetleri numarası nedir?",
-      "answer": "Ürünlerimizin müşteri hizmetleri numarası ürün açıklamalarında belirtilmiştir.",
-      "date": "2021-06-01T00:00:00.000Z"
-    },
-    {
-      "id": 35,
-      "question": "Ürünlerinizin sosyal medya hesapları nedir?",
-      "answer": "Ürünlerimizin sosyal medya hesapları ürün açıklamalarında belirtilmiştir.",
-      "date": "2021-06-01T00:00:00.000Z"
-    },
-    {
-      "id": 36,
-      "question": "Ürünlerinizin mağaza adresi nedir?",
-      "answer": "Ürünlerimizin mağaza adresi ürün açıklamalarında belirtilmiştir.",
-      "date": "2021-06-01T00:00:00.000Z"
-    },
-    {
-      "id": 37,
-      "question": "Ürünlerinizin çalışma saatleri nedir?",
-      "answer": "Ürünlerimizin çalışma saatleri ürün açıklamalarında belirtilmiştir.",
-      "date": "2021-06-01T00:00:00.000Z"
-    },
-    {
-      "id": 38,
-      "question": "Ürünlerinizin iletişim bilgileri nedir?",
-      "answer": "Ürünlerimizin iletişim bilgileri ürün açıklamalarında belirtilmiştir.",
-      "date": "2021-06-01T00:00:00.000Z"
-    },
-    {
-      "id": 39,
-      "question": "Ürünlerinizin müşteri yorumları nedir?",
-      "answer": "Ürünlerimizin müşteri yorumları ürün açıklamalarında belirtilmiştir.",
-      "date": "2021-06-01T00:00:00.000Z"
-    },
-    {
-      "id": 40,
-      "question": "Ürünlerinizin puanları nedir?",
-      "answer": "Ürünlerimizin puanları ürün açıklamalarında belirtilmiştir.",
-      "date": "2021-06-01T00:00:00.000Z"
-    },
-    {
-      "id": 41,
-      "question": "Ürünlerinizin satış sonrası hizmetleri nedir?",
-      "answer": "Ürünlerimizin satış sonrası hizmetleri ürün açıklamalarında belirtilmiştir.",
-      "date": "2021-06-01T00:00:00.000Z"
-    },
-    {
-      "id": 42,
-      "question": "Ürünlerinizin teknik destek hizmetleri nedir?",
-      "answer": "Ürünlerimizin teknik destek hizmetleri ürün açıklamalarında belirtilmiştir.",
-      "date": "2021-06-01T00:00:00.000Z"
-    },
-    {
-      "id": 43,
-      "question": "Ürünlerinizin yedek parça hizmetleri nedir?",
-      "answer": "Ürünlerimizin yedek parça hizmetleri ürün açıklamalarında belirtilmiştir.",
-      "date": "2021-06-01T00:00:00.000Z"
-    }
-  ]
+    "questions": [
+        {
+            "id": 1,
+            "question": "Hediye gönderiyormusunu ❤",
+            "date": "2021-06-01T00:00:00.000Z"
+        },
+        {
+            "id": 2,
+            "question": "Ürünleriniz orjinal mi?",
+            "date": "2021-06-01T00:00:00.000Z"
+        },
+        {
+            "id": 3,
+            "question": "Kargo ücreti ne kadar?",
+            "date": "2021-06-01T00:00:00.000Z"
+        },
+        {
+            "id": 4,
+            "question": "Kargo süresi ne kadar?",
+            "date": "2021-06-01T00:00:00.000Z"
+        },
+        {
+            "id": 5,
+            "question": "İade süresi ne kadar?",
+            "date": "2021-06-01T00:00:00.000Z"
+        },
+        {
+            "id": 6,
+            "question": "Kapıda ödeme var mı?",
+            "date": "2021-06-01T00:00:00.000Z"
+        },
+        {
+            "id": 7,
+            "question": "Kredi kartı ile ödeme yapabilir miyim?",
+            "date": "2021-06-01T00:00:00.000Z"
+        },
+        {
+            "id": 8,
+            "question": "Ürünlerinizde indirim var mı?",
+            "date": "2021-06-01T00:00:00.000Z"
+        },
+        {
+            "id": 9,
+            "question": "Ürünlerinizde kupon kullanabilir miyim?",
+            "date": "2021-06-01T00:00:00.000Z"
+        },
+        {
+            "id": 10,
+            "question": "Kedim için ürün var mı?",
+            "date": "2021-06-01T00:00:00.000Z"
+        },
+        {
+            "id": 11,
+            "question": "Ürünleriniz uzaya gönderilebilir mi?",
+            "date": "2021-06-01T00:00:00.000Z"
+        },
+        {
+            "id": 12,
+            "question": "Ürünleriniz su geçirmez mi?",
+            "date": "2021-06-01T00:00:00.000Z"
+        },
+        {
+            "id": 13,
+            "question": "Ürünlerinizin tadı güzel mi?",
+            "date": "2021-06-01T00:00:00.000Z"
+        },
+        {
+            "id": 14,
+            "question": "Ürünlerinizin boyutları nedir?",
+            "date": "2021-06-01T00:00:00.000Z"
+        },
+        {
+            "id": 15,
+            "question": "Ürünlerinizin rengi nedir?",
+            "date": "2021-06-01T00:00:00.000Z"
+        },
+        {
+            "id": 16,
+            "question": "Ürünlerinizin malzemesi nedir?",
+            "date": "2021-06-01T00:00:00.000Z"
+        },
+        {
+            "id": 17,
+            "question": "Ürünlerinizin garantisi var mı?",
+            "date": "2021-06-01T00:00:00.000Z"
+        },
+        {
+            "id": 18,
+            "question": "Ürünlerinizin kullanım kılavuzu var mı?",
+            "date": "2021-06-01T00:00:00.000Z"
+        },
+        {
+            "id": 19,
+            "question": "Ürünlerinizin fiyatı nedir?",
+            "date": "2021-06-01T00:00:00.000Z"
+        },
+        {
+            "id": 20,
+            "question": "Ürünlerinizin stok durumu nedir?",
+            "date": "2021-06-01T00:00:00.000Z"
+        },
+        {
+            "id": 21,
+            "question": "Ürünlerinizin teslimat süresi nedir?",
+            "date": "2021-06-01T00:00:00.000Z"
+        },
+        {
+            "id": 22,
+            "question": "Ürünlerinizin iade koşulları nedir?",
+            "date": "2021-06-01T00:00:00.000Z"
+        },
+        {
+            "id": 23,
+            "question": "Ürünlerinizin değişim koşulları nedir?",
+            "date": "2021-06-01T00:00:00.000Z"
+        },
+        {
+            "id": 24,
+            "question": "Ürünlerinizin bakım talimatları nedir?",
+            "date": "2021-06-01T00:00:00.000Z"
+        },
+        {
+            "id": 25,
+            "question": "Ürünlerinizin kullanım ömrü nedir?",
+            "date": "2021-06-01T00:00:00.000Z"
+        },
+        {
+            "id": 26,
+            "question": "Ürünlerinizin enerji tüketimi nedir?",
+            "date": "2021-06-01T00:00:00.000Z"
+        },
+        {
+            "id": 27,
+            "question": "Ürünlerinizin çevre dostu mu?",
+            "date": "2021-06-01T00:00:00.000Z"
+        },
+        {
+            "id": 28,
+            "question": "Ürünlerinizin geri dönüşümlü mü?",
+            "date": "2021-06-01T00:00:00.000Z"
+        },
+        {
+            "id": 29,
+            "question": "Ürünlerinizin paketleme malzemesi nedir?",
+            "date": "2021-06-01T00:00:00.000Z"
+        },
+        {
+            "id": 30,
+            "question": "Ürünlerinizin teslimat seçenekleri nedir?",
+            "date": "2021-06-01T00:00:00.000Z"
+        },
+        {
+            "id": 31,
+            "question": "Ürünlerinizin ödeme seçenekleri nedir?",
+            "date": "2021-06-01T00:00:00.000Z"
+        },
+        {
+            "id": 32,
+            "question": "Ürünlerinizin taksit seçenekleri nedir?",
+            "date": "2021-06-01T00:00:00.000Z"
+        },
+        {
+            "id": 33,
+            "question": "Ürünlerinizin kampanyaları nedir?",
+            "date": "2021-06-01T00:00:00.000Z"
+        },
+        {
+            "id": 34,
+            "question": "Ürünlerinizin müşteri hizmetleri numarası nedir?",
+            "date": "2021-06-01T00:00:00.000Z"
+        },
+        {
+            "id": 35,
+            "question": "Ürünlerinizin sosyal medya hesapları nedir?",
+            "date": "2021-06-01T00:00:00.000Z"
+        },
+        {
+            "id": 36,
+            "question": "Ürünlerinizin mağaza adresi nedir?",
+            "date": "2021-06-01T00:00:00.000Z"
+        },
+        {
+            "id": 37,
+            "question": "Ürünlerinizin çalışma saatleri nedir?",
+            "date": "2021-06-01T00:00:00.000Z"
+        },
+        {
+            "id": 38,
+            "question": "Ürünlerinizin iletişim bilgileri nedir?",
+            "date": "2021-06-01T00:00:00.000Z"
+        },
+        {
+            "id": 39,
+            "question": "Ürünlerinizin müşteri yorumları nedir?",
+            "date": "2021-06-01T00:00:00.000Z"
+        },
+        {
+            "id": 40,
+            "question": "Ürünlerinizin puanları nedir?",
+            "date": "2021-06-01T00:00:00.000Z"
+        },
+        {
+            "id": 41,
+            "question": "Ürünlerinizin satış sonrası hizmetleri nedir?",
+            "date": "2021-06-01T00:00:00.000Z"
+        },
+        {
+            "id": 42,
+            "question": "Ürünlerinizin teknik destek hizmetleri nedir?",
+            "date": "2021-06-01T00:00:00.000Z"
+        },
+        {
+            "id": 43,
+            "question": "Ürünlerinizin yedek parça hizmetleri nedir?",
+            "date": "2021-06-01T00:00:00.000Z"
+        }
+    ]
 }

@@ -57,10 +57,9 @@ async mockGetCustomerQuestions() {
         with: { type: "json" },
     });
 
-    return mockQuestions.default.questions.map((question: { id: number; question: string; answer: string; date: string; }) => ({
+    return mockQuestions.default.questions.map((question: { id: number; question: string; date: string; }) => ({
         id: question.id,
         question: question.question,
-        answer: question.answer,
         date: question.date,
     }));
 }

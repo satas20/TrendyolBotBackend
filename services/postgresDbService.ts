@@ -11,7 +11,7 @@ const host = env.POSTGRES_HOST;
 const username = env.POSTGRES_USER;
 const password = env.POSTGRES_PASSWORD;
 const database = env.POSTGRES_DB;
-
+//Todo: create the db 
 class PostgresDB {
   private static instance: PostgresDB;
   private db: Database;

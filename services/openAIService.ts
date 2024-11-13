@@ -4,14 +4,22 @@ import { config } from "https://deno.land/x/dotenv@v3.2.2/mod.ts";
 const env = config();
 const apiKey = env.OPENAI_API_KEY;
 
-class OpenAIBot {
+class OpenAIService {
+  private static instance: OpenAIService;
   private openai: OpenAI;
 
-  constructor() {
+  private constructor() {
     this.openai = new OpenAI({ apiKey });
   }
 
-  async getUserInput(role: string, prompt: string): Promise<any> {
+  public static getInstance(): OpenAIService {
+    if (!OpenAIService.instance) {
+      OpenAIService.instance = new OpenAIService();
+    }
+    return OpenAIService.instance;
+  }
+
+  public async getUserInput(role: string, prompt: string): Promise<any> {
     const response = await this.openai.chat.completions.create({
       messages: [{ role: "user", content: prompt }],
       model: "gpt-4-1106-preview",
@@ -26,4 +34,4 @@ class OpenAIBot {
   }
 }
 
-export { OpenAIBot };
+export { OpenAIService };

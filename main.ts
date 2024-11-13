@@ -1,6 +1,6 @@
-import { OpenAIBot } from "./services/openAIService.ts";
+import { OpenAIService } from "./services/openAIService.ts";
 import { TrendyolAPIService } from "./services/trendyolAPIService.ts";
-const chatBot = new OpenAIBot();
+const chatBot =  OpenAIService.getInstance();
 
 chatBot.getUserInput("user", "Hello, how are you?").then((response: any) => {
   console.log(response);
