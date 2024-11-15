@@ -52,16 +52,18 @@ class TrendyolAPIService {
     const data = await response.json();
     return data;
   }
-async mockGetCustomerQuestions() {
+  async mockGetCustomerQuestions() {
     const mockQuestions = await import("../utils/mockQuestions.json", {
-        with: { type: "json" },
+      with: { type: "json" },
     });
 
-    return mockQuestions.default.questions.map((question: { id: number; question: string; date: string; }) => ({
-        id: question.id,
-        question: question.question,
-        date: question.date,
+    return mockQuestions.default.questions.map((
+      question: { id: number; question: string; date: string },
+    ) => ({
+      id: question.id,
+      question: question.question,
+      date: question.date,
     }));
-}
+  }
 }
 export { TrendyolAPIService };

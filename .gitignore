@@ -1,2 +1,37 @@
-
+# Environment variables
 .env
+
+# Deno dependencies and lock files
+deno.lock
+
+# Deno cache directory
+deno_dir/
+
+# Node.js dependencies (if any)
+node_modules/
+
+# Logs
+*.log
+
+# VS Code settings
+.vscode/
+
+# MacOS files
+.DS_Store
+
+# Windows files
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# Compiled output
+dist/
+build/
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Ignore npm package-lock file if using npm for some dependencies
+package-lock.json
